@@ -1,0 +1,8 @@
+{
+  "domain": "GL-inet",
+  "name": "GL-inet",
+  "documentation": "https://www.home-assistant.io/integrations/GL-inet",
+  "requirements": ["gli_py==0.0.1"],
+  "codeowners": ["HarvsG"],
+  "iot_class": "local_polling"
+}
